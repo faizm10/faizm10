@@ -1,16 +1,33 @@
-### Hi there 👋
+# 👋 Hello, I'm Faiz Mustansar
 
-<!--
-**faizm10/faizm10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm an ambitious student pursuing a Bachelor of Computing, specializing in Computer Science. 
+## 💼 Current Work
+- 🔭 I'm currently working on creating a portfolio website.
 
-Here are some ideas to get you started:
+## 🎓 Academic Pursuit
+- Bachelor of Computing (Computer Science) - University of Guelph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- 📫 You can reach me via fmustans@uoguelph.ca
+- 💬 Let's connect on LinkedIn: https://www.linkedin.com/in/faiz-mustansar-a9a435213
+
+## 🛠️ Skills
+- Programming Languages: Python, Java, C
+- Web Technologies: HTML, CSS, JavaScript
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizm10&show_icons=true&theme=radical)
+
+## 🎯 Goals
+
+1. Secure a Summer 2024 Internship:
+   - Actively seek opportunities for a summer internship in computer science to gain hands-on experience and apply classroom learning in a practical setting.
+
+2. Build Standout Projects:
+   - Create innovative projects that highlight advanced problem-solving, creativity, and expertise in relevant technologies. These projects will demonstrate my dedication and proficiency in the field.
+
+## 🤝 Let's Collaborate!
+I'm always open to collaboration and new opportunities. If you have an exciting project or idea, let's chat and see how we can work together!
+
+Thanks for stopping by! 😊
