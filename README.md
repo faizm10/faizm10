@@ -1,3 +1,4 @@
+![Header](./faizmgithubheader.png.png)
 <h1 align="center">Hi 👋, I'm Faiz Mustansar</h1>
 <h3 align="center">I'm an ambitious student pursuing a Bachelor of Computing, specializing in Computer Science.</h3>
 
