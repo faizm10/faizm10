@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Faiz Mustansar</h1>
 <h3 align="center">I'm an ambitious student pursuing a Bachelor of Computing, specializing in Computer Science.</h3>
 
-- 🔭 I’m currently working on **To-Do List**
+- 🔭 I’m currently working on **To-Do List** and revamping my **Portfolio Website**
 
-- 🌱 I’m currently learning **DSA and React**
+- 🌱 I’m currently learning **DSA, React and NExt.js**
 
 - 👨‍💻 All of my projects are available at [https://faizm10.github.io](https://faizm10.github.io)
 
