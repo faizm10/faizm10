@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA, React, Next.js, Tailwind CSS, Typescipt**
 
-- 👨‍💻 All of my projects are available at [https://faizm10.github.io](https://faizm10.github.io)
+- 👨‍💻 All of my projects are available at [https://faizm.vercel.app/](https://faizm.vercel.app/)
 
 - 💬 Ask me about **sports, hobbies and personal projects!**
 
