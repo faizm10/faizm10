@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Faiz Mustansar</h1>
 <h3 align="center">I'm an ambitious student pursuing a Bachelor of Computing, specializing in Computer Science.</h3>
 
-- 🔭 I’m currently working on developing **carPortal** leveraging MongoDB, Next.js, Tailwind CSS, TypeScript, and JavaScript and Champions League Fantasy Manager utilizing APIs, Next.js, Tailwind CSS, TypeScript, and JavaScript. 
+- 🔭 I’m currently working on developing **carPortal** leveraging MongoDB, Next.js, Tailwind CSS, TypeScript, and JavaScript and **Champions League Fantasy Manager** utilizing APIs, Next.js, Tailwind CSS, TypeScript, and JavaScript. 
 - 🏫 I am part of **Engineering Ambition** and **Muslims In Tech**, working on couple of projects for both organizations
 - 🌱 I’m currently learning **DSA, React, Next.js, Tailwind CSS, Typescipt and more!**
 
