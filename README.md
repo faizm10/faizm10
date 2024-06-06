@@ -1,10 +1,10 @@
 ![Header](faizmgithubheader.png)
-<h1 align="center">Hi 👋, I'm Faiz Mustansar</h1>
-<h3 align="center">I'm an ambitious student pursuing a Bachelor of Computing, specializing in Computer Science.</h3>
+<h1 align="center">Hey There 👋, I'm Faiz Mustansar</h1>
+<h3 align="center">I'm an ambitious student pursuing a Bachelor of Computing, specializing in Computer Science with a minor in Sports & Event Management</h3>
 
-- 🔭 I’m currently working on developing **carPortal** leveraging MongoDB, Next.js, Tailwind CSS, TypeScript, and JavaScript and **Champions League Fantasy Manager** utilizing APIs, Next.js, Tailwind CSS, TypeScript, and JavaScript. 
-- 🏫 I am part of **Engineering Ambition** and **Muslims In Tech**, working on couple of projects for both organizations
-- 🌱 I’m currently learning **DSA, React, Next.js, Tailwind CSS, Typescipt and more!**
+- 🔭 Current Projects: **Leagueify**, **Champions League Fantasy Dashboard** and **Portfolio Website For A Professor**
+- 🏫 Organizations: **Engineering Ambition** and **Muslims In Tech**
+- 🌱 I’m currently learning **React, Next.js, Tailwind CSS, Typescipt and Javascript!**
 
 - 👨‍💻 All of my projects are available at [https://faizm.vercel.app/](https://faizm.vercel.app/)
 
