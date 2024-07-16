@@ -2,9 +2,9 @@
 <h1 align="center">Hey There 👋, I'm Faiz Mustansar</h1>
 <h3 align="center">I'm an ambitious student pursuing a Bachelor of Computing, specializing in Computer Science with a minor in Sports & Event Management</h3>
 
-- 🔭 Current Projects: **Leagueify**, **Champions League Fantasy Dashboard** and **Portfolio Website For A Professor**
+- 🔭 Current Projects:  **Champions League Dashboard**, **Portfolio Website For A Professor** and my Research Project at UofG
 - 🏫 Organizations: **Engineering Ambition** and **Muslims In Tech**
-- 🌱 I’m currently learning **React, Next.js, Tailwind CSS, Typescipt and Javascript!**
+- 🌱 I’m currently learning **DSA, Next.js, Tailwind CSS, Typescipt and Javascript!**
 
 - 👨‍💻 All of my projects are available at [https://faizm.vercel.app/](https://faizm.vercel.app/)
 
