@@ -12,8 +12,6 @@ Previously...
 
 ## ⚙️ Technologies I've been working with recently...
 
-Here’s the updated version based on what you’ve shared:
-
 Languages: `Python` `Javascript/Typescript` `C` `Java`  
 Frameworks/Libraries: `Next.js` `React.js` `Tailwind CSS`  
 Developer Tools: `Git (GitHub, GitLab)` `Visual Studio Code` `Eclipse` `Linux OS` `Clickup`
