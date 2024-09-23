@@ -16,8 +16,8 @@ Languages: `Python` `Javascript/Typescript` `C` `Java`
 Frameworks/Libraries: `Next.js` `React.js` `Tailwind CSS`  
 Developer Tools: `Git (GitHub, GitLab)` `Visual Studio Code` `Eclipse` `Linux OS` `Clickup`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizm10&layout=compact&hide=procfile&theme=dark#gh-dark-mode-only)](https://github.com/ericcxie/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizm10&layout=compact&hide=procfile&theme=default#gh-light-mode-only)](https://github.com/ericcxie/github-readme-stats#gh-light-mode-only)
+![](https://raw.githubusercontent.com/faizm10/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/faizm10/github-stats/master/generated/languages.svg)
 
 
 ---
