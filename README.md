@@ -16,10 +16,6 @@ Languages: `Python` `Javascript/Typescript` `C` `Java`
 Frameworks/Libraries: `Next.js` `React.js` `Tailwind CSS`  
 Developer Tools: `Git (GitHub, GitLab)` `Visual Studio Code` `Eclipse` `Linux OS` `Clickup`
 
-![](https://raw.githubusercontent.com/faizm10/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/faizm10/github-stats/master/generated/languages.svg)
-
-
 ---
 
 ## 📫 Get in touch!
