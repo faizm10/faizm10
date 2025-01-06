@@ -7,10 +7,10 @@ I'm a second year **Computer Science** student at the **University of Guelph**, 
 **2025** Summer SWE internship opportunities 🌱
 
 Currently...
+- Teaching Assistant @ [University of Guelph]() | MCS2020 DE
 - building 🚧 🚀 
 
 Previously...
-- Teaching Assistant @ [University of Guelph]() | MCS2020 DE
 - Undergraduate Research Assistant @ [University of Guelph](https://mcs-2020.vercel.app/) | Research
 
 ## ⚙️ Technologies I've been working with recently...
