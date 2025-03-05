@@ -6,12 +6,15 @@
 I'm a second year **Computer Science** student at the **University of Guelph**, currently seeking \
 **2025** Summer SWE internship opportunities 🌱
 
+Incoming...
+- Undergraudate Research Assistant @ Gordon S. Lang School of Business and Economics | Full Stack Developer
+
 Currently...
 - Teaching Assistant @ [University of Guelph]() | MCS2020 DE
 - building 🚧 🚀 
 
 Previously...
-- Undergraduate Research Assistant @ [University of Guelph](https://mcs-2020.vercel.app/) | Research
+- Undergraduate Research Assistant @ [Department of Marketing and Consumer Studies](https://mcs-2020.vercel.app/) | Research
 
 ## ⚙️ Technologies I've been working with recently...
 
