@@ -7,7 +7,7 @@ I'm a second year **Computer Science** student at the **University of Guelph**, 
 **2025** Summer SWE internship opportunities 🌱
 
 Incoming...
-- Undergraudate Research Assistant @ Gordon S. Lang School of Business and Economics | Full Stack Developer
+- Full Stack Developer @ Gordon S. Lang School of Business and Economics
 
 Currently...
 - Teaching Assistant @ [University of Guelph]() | MCS2020 DE
