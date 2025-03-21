@@ -3,17 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizm10&label=Profile%20views&color=0e75b6&style=flat" alt="faizm10" /> </p>
 
-I'm a second year **Computer Science** student at the **University of Guelph**, currently seeking \
-**2025** Summer SWE internship opportunities 🌱
+I'm currently second year **Computer Science** student at the **University of Guelph**🌱
 
 Incoming...
 - Full Stack Developer @ Gordon S. Lang School of Business and Economics
+- Part Time Software Developer @ TBD
 
 Currently...
-- Teaching Assistant @ [University of Guelph]() | MCS2020 DE
+- Part Time Student @ [University of Waterloo](http://uwaterloo.ca/) | CS350
 - building 🚧 🚀 
 
 Previously...
+- Teaching Assistant @ [University of Guelph]() | MCS2020 DE
 - Undergraduate Research Assistant @ [Department of Marketing and Consumer Studies](https://mcs-2020.vercel.app/) | Research
 
 ## ⚙️ Technologies I've been working with recently...
