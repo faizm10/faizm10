@@ -10,7 +10,8 @@ Incoming...
 - Part Time Software Developer @ TBD
 
 Currently...
-- Part Time Student @ [University of Waterloo](http://uwaterloo.ca/) | CS350
+- Part Time Student @ [University of Waterloo](http://uwaterloo.ca/) | CS349
+- Part Time Student @ [University of Ottawa](https://www.uottawa.ca/) | CPI3131
 - building 🚧 🚀 
 
 Previously...
