@@ -5,11 +5,9 @@
 
 I'm currently second year **Computer Science** student at the **University of Guelph**🌱
 
-Incoming...
-- Full Stack Developer @ [Gordon S. Lang School of Business and Economics](https://www.uoguelph.ca/lang/programs/?utm_source=google&utm_medium=cpc&utm_campaign=21850775703&utm_content=171246619642&utm_term=guelph%20university%20business%20programs&gad_source=1&gclid=Cj0KCQjwtJ6_BhDWARIsAGanmKf5bNjUCQ7cVK4KfM8vCzA_1rl3V1OumHHoBodKu5ZyA6pC9D_zKpQaAtycEALw_wcB)
-- Part Time Software Developer @ TBD
-
 Currently...
+- Full Stack Developer @ [Gordon S. Lang School of Business and Economics](https://www.uoguelph.ca/lang/programs/?utm_source=google&utm_medium=cpc&utm_campaign=21850775703&utm_content=171246619642&utm_term=guelph%20university%20business%20programs&gad_source=1&gclid=Cj0KCQjwtJ6_BhDWARIsAGanmKf5bNjUCQ7cVK4KfM8vCzA_1rl3V1OumHHoBodKu5ZyA6pC9D_zKpQaAtycEALw_wcB)
+- Software Developer Intern @ [Brown & Beatty](https://www.brownandbeatty.com/)
 - Part Time Student @ [University of Waterloo](http://uwaterloo.ca/) | CS349
 - Part Time Student @ [University of Ottawa](https://www.uottawa.ca/) | CPI3131
 - building 🚧 🚀 
