@@ -6,8 +6,8 @@
 I'm currently second year **Computer Science** student at the **University of Guelph**🌱
 
 Currently...
-- Software Developer Intern @ [Brown & Beatty](https://www.brownandbeatty.com/)
-- Part Time Student @ [University of Waterloo](http://uwaterloo.ca/) | CS346, CS449
+- Software Engineer @ [Brown & Beatty](https://www.brownandbeatty.com/)
+- Part Time Student @ [University of Waterloo](http://uwaterloo.ca/) | CS346 & CS449
 - building 🚧 🚀 
 
 Previously...
