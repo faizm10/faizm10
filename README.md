@@ -16,6 +16,13 @@ Previously...
 - Teaching Assistant @ [University of Guelph]() | MCS2020 DE | F24, W25
 - Undergraduate Research Assistant @ [Department of Marketing and Consumer Studies](https://mcs-2020.vercel.app/) | Research | S24
 
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+
+
 ## ⚙️ Technologies I've been working with recently...
 
 ### Languages:
