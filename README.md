@@ -19,7 +19,11 @@ Previously...
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     41 mins         ████████████░░░░░░░░░░░░░   48.01 %
+TypeScript   32 mins         █████████▒░░░░░░░░░░░░░░░   37.86 %
+YAML         10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
