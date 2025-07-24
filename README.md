@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizm10&label=Profile%20views&color=0e75b6&style=flat" alt="faizm10" /> </p>
 
-I'm currently second year **Computer Science** student at the **University of Guelph**🌱
+I'm currently a third year **Computer Science** student at the **University of Guelph**🌱
 
 Currently...
 - Software Engineer @ [Brown & Beatty](https://www.brownandbeatty.com/)
