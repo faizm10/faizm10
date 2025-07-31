@@ -6,6 +6,7 @@
 I'm currently a third year **Computer Science** student at the **University of Guelph**🌱
 
 Currently...
+- Founding Engineer @ [Octree](https://useoctree.com/)
 - Software Engineer @ [Brown & Beatty](https://www.brownandbeatty.com/)
 - Part Time Student @ [University of Waterloo](http://uwaterloo.ca/) | CS346 & CS449
 - building 🚧 🚀 
