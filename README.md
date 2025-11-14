@@ -22,11 +22,7 @@ Previously...
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     9 mins          ██████████████▒░░░░░░░░░░   57.07 %
-Docker       3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-TypeScript   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-YAML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+TypeScript   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
