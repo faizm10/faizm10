@@ -22,8 +22,8 @@ Previously...
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     4 mins          ████████████████▓░░░░░░░░   66.22 %
-TypeScript   2 mins          ████████▒░░░░░░░░░░░░░░░░   33.78 %
+Markdown     4 mins          ██████████████████████░░░   87.76 %
+TypeScript   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
 ```
 
 <!--END_SECTION:waka-->
