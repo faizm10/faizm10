@@ -22,8 +22,7 @@ Previously...
 <!--START_SECTION:waka-->
 
 ```txt
-Java         15 mins         ██████████████▒░░░░░░░░░░   57.65 %
-TypeScript   11 mins         ██████████▓░░░░░░░░░░░░░░   42.35 %
+TypeScript   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
