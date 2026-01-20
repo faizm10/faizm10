@@ -22,8 +22,11 @@ Previously...
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 52 mins    █████████████████████████   99.94 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   5 hrs 23 mins   █████████████████████▓░░░   86.92 %
+MDX          47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
