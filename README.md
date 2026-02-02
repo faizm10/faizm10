@@ -22,7 +22,9 @@ Previously...
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          █████████████████████████   100.00 %
+MDX          25 mins         ████████████████████▒░░░░   81.16 %
+Markdown     5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
