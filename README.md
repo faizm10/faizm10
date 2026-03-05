@@ -22,11 +22,7 @@ Previously...
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     12 mins               ████████▓░░░░░░░░░░░░░░░░   35.26 %
-Go           12 mins               ████████▓░░░░░░░░░░░░░░░░   34.81 %
-Other        5 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-Bash         3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
