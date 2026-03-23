@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizm10&label=Profile%20views&color=0e75b6&style=flat" alt="faizm10" /> </p>
 
-I'm currently a third year **Computer Science** student at the **University of Guelph**, also taking some upper year level courses at the **University of Waterloo**🌱
+I'm currently a third year **Computer Science** student at the **University of Guelph**, also took some upper year level courses at the **University of Waterloo**🌱
 
 Currently...
+- Incoming Software Developer Intern @ [Tangerine](https://www.tangerine.ca/en/personal) || S26
 - Software Engineer Intern @ [TD Bank](https://www.td.com/ca/en/personal-banking)
 - Founder & Software Engineer @ [uoguelph.courses](https://uoguelph.courses/)
 - Founding Engineer @ [Octree](https://useoctree.com/)
