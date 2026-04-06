@@ -7,7 +7,7 @@ I'm currently a third year **Computer Science** student at the **University of G
 
 Currently...
 - Incoming Software Developer Intern @ [Tangerine](https://www.tangerine.ca/en/personal) || S26
-- Software Engineer Intern @ [TD Bank](https://www.td.com/ca/en/personal-banking)
+- Software Engineer Intern @ [TD Bank](https://www.td.com/ca/en/personal-banking) || W26
 - Founder & Software Engineer @ [uoguelph.courses](https://uoguelph.courses/)
 - Founding Engineer @ [Octree](https://useoctree.com/)
 - Software Engineer @ [Brown & Beatty](https://www.brownandbeatty.com/)
